@@ -1,38 +1,38 @@
-# \# FitFlow Redesign
+\# FitFlow Redesign
 
-# 
 
-# Redesign of the FitFlow fitness app targeting a seamless iOS, Android, and web experience.
 
-# 
+Redesign of the FitFlow fitness app targeting a seamless iOS, Android, and web experience.
 
-# \## Tech Stack
 
-# \- \*\*Frontend:\*\* Flutter (iOS / Android / Web)
 
-# \- \*\*Backend:\*\* NestJS (API gateway + services)
+\## Tech Stack
 
-# \- \*\*AI Microservice:\*\* Python / FastAPI
+\- \*\*Frontend:\*\* Flutter (iOS / Android / Web)
 
-# \- \*\*Database:\*\* PostgreSQL, Redis, MongoDB/DynamoDB
+\- \*\*Backend:\*\* NestJS (API gateway + services)
 
-# \- \*\*Auth:\*\* Auth0
+\- \*\*AI Microservice:\*\* Python / FastAPI
 
-# 
+\- \*\*Database:\*\* PostgreSQL, Redis, MongoDB/DynamoDB
 
-# \## Documentation
+\- \*\*Auth:\*\* Auth0
 
-# \- \[Tech Stack Summary](docs/tech-stack-summary.md)
 
-# \- \[Technology Comparison Matrix](docs/comparison-matrix.md)
 
-# \- \[Architecture Diagram](docs/architecture.png)
+\## Documentation
 
-# \- \[ADR-001: Technology Stack](docs/adr/adr-001-technology-stack.md)
+\- \[Tech Stack Summary](docs/tech-stack-summary.md)
 
-# 
+\- \[Technology Comparison Matrix](docs/comparison-matrix.md)
 
-# \## Getting Started
+\- \[Architecture Diagram](docs/architecture.png)
 
-# See the setup instructions in each subfolder (`frontend`, `backend`, `ai-service`).
+\- \[ADR-001: Technology Stack](docs/adr/adr-001-technology-stack.md)
+
+
+
+\## Getting Started
+
+See the setup instructions in each subfolder (`frontend`, `backend`, `ai-service`).
 
